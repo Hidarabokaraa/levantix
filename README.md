@@ -1,5 +1,7 @@
 # Levantix
 
+**Live site:** https://hidarabokaraa.github.io/levantix/
+
 Website for **Levantix — International Shipping & Customs Clearance to Syria**.
 
 A fast, static, bilingual (English / العربية) one-page site. No build step and no framework:
