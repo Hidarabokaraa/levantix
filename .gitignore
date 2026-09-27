@@ -1,0 +1,12 @@
+# Original, full-resolution source images (18 MB+). The site uses the
+# optimised copies in assets/img/. Keep the originals locally only.
+/images/
+
+# Tooling
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+
+# Local Claude Code settings
+.claude/settings.local.json

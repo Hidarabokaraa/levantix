@@ -1,0 +1,9 @@
+{
+  "name": "levantix",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Levantix: international shipping and customs clearance to Syria. Static bilingual (EN/AR) website.",
+  "scripts": {
+    "start": "npx --yes serve -l 5500 ."
+  }
+}
